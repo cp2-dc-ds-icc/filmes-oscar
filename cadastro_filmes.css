@@ -1,0 +1,36 @@
+fieldset {
+
+    width: 350px;
+    text-align: center;
+    margin: auto;
+    position: absolute;
+    height: 440px;
+    left: 50%;
+    top: 50%;
+    margin-top: -220px;
+    margin-left: -181px;
+
+    padding: 5px;
+    overflow: hidden;
+    border-radius: 7px;
+    border-color: goldenrod;
+    color: white;
+
+    
+}
+html{
+    background-color: rgb(0, 0, 0);
+
+}
+
+.campos {
+    font-size:x-large;
+
+}
+
+h1 {
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 8%;
+}
